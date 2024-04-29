@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+    color:purple;
+
+    header{
+        background-color: blueviolet;
+        color: cyan;
+    }
+    main{
+        background-color: green;
+        color:blanchedalmond
+
+        button{
+           a{background-color: aqua;
+            color:brown} 
+        }
+    }
+
+    footer{
+        background-color: chocolate;
+        color: cornflowerblue;
+    }
+}
